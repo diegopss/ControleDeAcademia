@@ -1,0 +1,51 @@
+{
+  "members": [
+    {
+      
+    }
+  ],
+  "instructors": [
+    {
+      "avatar_url": "https://th.bing.com/th/id/OIP.ArjuP9XceULGRObc2lVuCwHaLB?pid=ImgDet&rs=1",
+      "name": "rafael marques",
+      "gender": "M",
+      "services": "crosfit,musculação,natação",
+      "birth": 915321600000,
+      "id": "1"
+    },
+    {
+      "avatar_url": "https://source.unsplash.com/collection/7325171/500x500",
+      "name": "diego passos",
+      "gender": "M",
+      "services": "funcional",
+      "birth": 904608000000,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://source.unsplash.com/collection/8315170/500x500",
+      "name": "Manuele Toledo",
+      "birth": 937699200000,
+      "gender": "F",
+      "services": "musculação,fitdance,zumba",
+      "created_at": 1629314898352
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://images.unsplash.com/photo-1583123810408-23e7b5d1af9f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80",
+      "name": "diego",
+      "birth": 904608000000,
+      "gender": "M",
+      "services": "funcional",
+      "created_at": 1629481478705
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1600273759837-a4d4abb62142?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bXVsaGVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60",
+      "name": "paulo",
+      "gender": "F",
+      "services": "funcional",
+      "birth": 1629417600000,
+      "id": "5"
+    }
+  ]
+}
