@@ -1,7 +1,49 @@
 {
   "members": [
+    {},
     {
-      
+      "avatar_url": "https://th.bing.com/th/id/OIP.c3A1G0_foTl9KEAkl8GYMwHaFo?pid=ImgDet&rs=1",
+      "name": "Severino",
+      "email": "severino@gmail.com",
+      "gender": "M",
+      "birth": 784512000000,
+      "blood": "A1",
+      "weight": "76",
+      "height": "175",
+      "id": null
+    },
+    {
+      "avatar_url": "https://www.google.com.br",
+      "name": "Zoenelsinho",
+      "email": "severino@gmail.com",
+      "gender": "M",
+      "birth": 1632528000000,
+      "blood": "A1",
+      "weight": "12",
+      "height": "122",
+      "id": null
+    },
+    {
+      "id": 1,
+      "avatar_url": "https://www.musculacao.com.br",
+      "name": "jatobaa",
+      "email": "severino@gmail.com",
+      "gender": "M",
+      "birth": 1633132800000,
+      "blood": "A1",
+      "weight": "144",
+      "height": "111"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://th.bing.com/th/id/R.3b2a4ae36ccf8a11208cb0f3b4891b55?rik=Nzdc8DrpH3HBag&riu=http%3a%2f%2fwww.vilamulher.com.br%2fimagens%2fthumbs%2f2015%2f02%2f26%2ffotografa-registra-a-beleza-de-mulheres-ao-redor-do-mundo02-5-thumb-570.jpg&ehk=EedUgwHCiRREJa%2fUtQLhYNva827MDvQN%2bMMsT1n6xvI%3d&risl=&pid=ImgRaw&r=0",
+      "name": "marcela",
+      "email": "marcela@gmail.com",
+      "gender": "F",
+      "birth": 621475200000,
+      "blood": "A1",
+      "weight": "60",
+      "height": "157"
     }
   ],
   "instructors": [
@@ -46,6 +88,15 @@
       "services": "funcional",
       "birth": 1629417600000,
       "id": "5"
+    },
+    {
+      "id": 6,
+      "avatar_url": "https://www.google.com.br",
+      "name": "Severino",
+      "birth": 1632355200000,
+      "gender": "M",
+      "services": "crosfit",
+      "created_at": 1631398181452
     }
   ]
 }

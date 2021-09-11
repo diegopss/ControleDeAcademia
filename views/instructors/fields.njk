@@ -6,17 +6,12 @@
     </div>
 
      <div class="item">
-        <div>Nome</div>
+        <div>Instrutor</div>
         <div>
-            <input type="text" name="name" placeholder="Nome do membro" value="{{ instructor.name }}">
+            <input type="text" name="name" placeholder="Nome do instrutor" value="{{ instructor.name }}">
         </div>
     </div>
-    <div class="item">
-        <div>Email</div>
-        <div>
-            <input type="email" name="email"  value="{{ instructor.name }}">
-        </div>
-    </div>
+    
     <div class="item">
         <div>Sexo</div>
         <div>
@@ -27,7 +22,12 @@
         </div>
     </div>
 
-   
+    <div class="item">
+        <div>Area de atuação</div>
+        <div>
+            <input type="text" name="services" placeholder="Separe os serviços prestados por virgula"value="{{ instructor.services }}">
+        </div>
+    </div>
 
     
     <div class="item">
@@ -36,30 +36,5 @@
             <input type="date" name="birth" value="{{ instructor.birth }}">
         </div>
     </div>
-
-     
-    <div class="item">
-        <div>Tipo Sanguineo</div>
-        <div>
-            <select name="blood" >
-                <option value="A1">A+</option>
-                <option value="A0">A-</option>
-                <option value="B1">B+</option>
-                <option value="B0">B-</option>
-                <option value="AB1">AB+</option>
-                <option value="AB0">AB-</option>
-                <option value="O1">O+</option>
-                <option value="O0">O-</option>
-            </select>
-        </div>
-    </div>
-
-     <div class="item">
-        <div>Peso em kg</div>
-        <div>
-            <input type="number" name="birth" value="{{ instructor.birth }}">
-        </div>
-    </div>
-
 
     <button type="submit">Salvar</button>
