@@ -1,38 +1,15 @@
 {
   "members": [
-    {},
     {
-      "avatar_url": "https://th.bing.com/th/id/OIP.c3A1G0_foTl9KEAkl8GYMwHaFo?pid=ImgDet&rs=1",
-      "name": "Severino",
-      "email": "severino@gmail.com",
-      "gender": "M",
-      "birth": 784512000000,
-      "blood": "A1",
-      "weight": "76",
-      "height": "175",
-      "id": null
-    },
-    {
-      "avatar_url": "https://www.google.com.br",
-      "name": "Zoenelsinho",
-      "email": "severino@gmail.com",
-      "gender": "M",
-      "birth": 1632528000000,
-      "blood": "A1",
-      "weight": "12",
-      "height": "122",
-      "id": null
-    },
-    {
-      "id": 1,
       "avatar_url": "https://www.musculacao.com.br",
       "name": "jatobaa",
-      "email": "severino@gmail.com",
+      "email": "jatobaa@gmail.com",
       "gender": "M",
-      "birth": 1633132800000,
-      "blood": "A1",
+      "birth": -2500156800000,
+      "blood": "A-",
       "weight": "144",
-      "height": "111"
+      "height": "111",
+      "id": 1
     },
     {
       "id": 2,
@@ -44,6 +21,17 @@
       "blood": "A1",
       "weight": "60",
       "height": "157"
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://th.bing.com/th/id/R.c78aa50c99725e5dd8adc6d99346d5cd?rik=VgBK2WpsU8V8UA&riu=http%3a%2f%2fimg.cancaonova.com%2fcnimages%2fcanais%2fuploads%2fsites%2f6%2f2015%2f03%2fformacao_existe-receita-para-ser-uma-mulher-feliz-1600x1200-1.jpg&ehk=%2b%2f%2fN92RAYncqxjpSdVwi0IYIMiPv16GXETCBFcmTBEA%3d&risl=&pid=ImgRaw&r=0",
+      "name": "Mirella",
+      "email": "mirela1@hotmail.com",
+      "gender": "F",
+      "birth": 861321600000,
+      "blood": "AB-",
+      "weight": "67",
+      "height": "159"
     }
   ],
   "instructors": [
@@ -88,15 +76,6 @@
       "services": "funcional",
       "birth": 1629417600000,
       "id": "5"
-    },
-    {
-      "id": 6,
-      "avatar_url": "https://www.google.com.br",
-      "name": "Severino",
-      "birth": 1632355200000,
-      "gender": "M",
-      "services": "crosfit",
-      "created_at": 1631398181452
     }
   ]
 }
